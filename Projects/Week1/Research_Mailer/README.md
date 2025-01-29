@@ -1,0 +1,2 @@
+day1:-
+I have separate sections for fluidity when updating and a main file in data that calls other functions when implementing the code. One has a script for generating the emails for sending the emails then other I also have a git ignore file to hide sensitive data that can't be shown that I learn while watching videos, then a data file for me to add the professors I want to mail to or the algorithm makes them itself  
