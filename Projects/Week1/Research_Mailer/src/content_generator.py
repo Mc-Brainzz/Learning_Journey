@@ -2,8 +2,7 @@ import requests
 import openpyxl
 
 # Hugging Face API details
-API_URL = "https://api-inference.huggingface.co/models/gpt2"  # You can choose other models too
-headers = {"Authorization": f"Bearer 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"}  # Replace with your API token
+ # Replace with your API token
 
 # Function to call Hugging Face API
 def generate_email(professor_name, research_paper, research_field):
